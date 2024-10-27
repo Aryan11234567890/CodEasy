@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: CodEasy
+Version: 0.1
+Summary: A package to auto-generate boilerplate code for common programming needs.
+Author: Aryan Shanker Saxena
+Author-email: aryan11234567890@gmail.com
+License-File: LICENSE
